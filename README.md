@@ -17,5 +17,4 @@ http://18.211.114.177/iea_emissions.html
 
 ## Adobe Illustrator Visuals:
 
-![GitHub Logo](https://github.com/images/logo.png)
-Format: ![Alt Text](url)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
