@@ -17,4 +17,4 @@ http://18.211.114.177/iea_emissions.html
 
 ## Adobe Illustrator Visuals:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![IEA_infographic_01_Mustafa_Alpay](https://github.com/MustafaAlpay/data_visuals-infographics/blob/master/IEA_infographic_01_Mustafa_Alpay.png)
